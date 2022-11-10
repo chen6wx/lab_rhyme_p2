@@ -1,0 +1,28 @@
+
+.result.perfect {
+    font-size: 4rem;
+  }
+
+/* .result {
+    width: auto;
+    display: inline-block;
+    padding: 5px;
+} */
+dt {
+    font-size: 16px;
+}
+
+dd {
+    font-size: 16px;
+}
+dl {
+    padding: 0px;
+    margin: 0px;
+}
+form {
+    padding: 5px;
+}
+
+body{
+    border: solid black 1px;
+}
